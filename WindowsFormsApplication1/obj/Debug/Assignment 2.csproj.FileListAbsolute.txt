@@ -1,0 +1,9 @@
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\BA 371 Assignment 2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\BA 371 Assignment 2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\BA 371 Assignment 2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\BA 371 Assignment 2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Assignment 2.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\BA 371 Assignment 2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Assignment2Form.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\BA 371 Assignment 2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\BA 371 Assignment 2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Assignment 2.csproj.GenerateResource.Cache
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\BA 371 Assignment 2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\BA 371 Assignment 2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
